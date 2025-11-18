@@ -1,0 +1,20 @@
+# Visual Studio
+.vs/
+*.suo
+*.user
+*.sln.docstates
+*.db
+*.opendb
+
+# Build results
+Binaries/
+Intermediate/
+DerivedDataCache/
+
+# Unreal Engine
+Saved/
+*.pdb
+*.pch
+
+# Other
+*.log
